@@ -357,13 +357,13 @@ text = """
       </div>
     </div>
     <div id="autors">
-      <p>Автор: 
+      <p>Author: 
       <a
         href="https://texty.org.ua/author/denys-gubashov/"
         target="_blank"
         > Денис Губашов</a
       >
-      </p><p>Дизайн: 
+      </p><p>Design: 
       <a
         href="https://texty.org.ua/author/nadia-kelm/"
         target="_blank"
