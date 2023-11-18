@@ -33,7 +33,7 @@ text = """
     />
     <meta
       property="og:url"
-      content="https://texty.org.ua/d/2023/way_to_sea/"
+      content="https://texty.org.ua/d/2023/way_to_sea_eng/"
     />
 
     <!-- Twitter Card Meta Tags -->
@@ -42,7 +42,7 @@ text = """
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:url"
-      content="https://texty.org.ua/d/2023/way_to_sea/"
+      content="https://texty.org.ua/d/2023/way_to_sea_eng/"
     />
     <meta
       name="twitter:title"
@@ -340,7 +340,7 @@ text = """
           </a>
           <!--tw -->
           <a
-            href="https://twitter.com/intent/tweet?text=https://texty.org.ua/d/2023/way_to_sea/"
+            href="https://twitter.com/intent/tweet?text=https://texty.org.ua/d/2023/way_to_sea_eng/"
             target="_blank"
             class="share-btn"
           >
@@ -359,22 +359,20 @@ text = """
     <div id="autors">
       <p>Автор: 
       <a
-        href="https://texty.org.ua/author/denys-hubashov/"
+        href="https://texty.org.ua/author/denys-gubashov/"
         target="_blank"
         > Денис Губашов</a
       >
       </p><p>Дизайн: 
       <a
-        href="https://texty.org.ua/author/nadja-kelm/"
+        href="https://texty.org.ua/author/nadia-kelm/"
         target="_blank"
         > Надя Кельм</a
       ></p>
     </div>
       <div class='blackP'>
         <p id="leadone">
-          ТЕКСТи реконструювали російську оборону лінію на півдні. Ми дослідили на супутникових знімках  за червень-вересень 2023 року оборонні споруди окупантів ще не взятого міста Токмак і сіл Роботине й Вербове, які наші війська нещодавно звільнили.</p>
-       
-
+          The TEXTY team reconstructed the Russian defense line in the south. We used satellite images dated June through September 2023 to trace changes to the fortifications built by the occupiers in the city of Tokmak which is still under Russia’s control and the villages of Robotyne and Verbove which had recently been liberated by the Ukrainian military.</p>
         <p id="planet"> Супутникові знімки для проекту надані компанією <a href="https://www.planet.com/">Planet Labs</a>  </p>
         <p>The liberation of Robotyne marked the beginning of the grand battle for Tokmak which might become the closing act of the 2023 military campaign.</p>
         <p>
@@ -389,7 +387,7 @@ text = """
       
       <div id="espreso-wrapper">  <p>Інформаційні партнери: </p><img id="espreso-logo" src="pic/espreso_logo.png" /> <img id="logo-24" src="pic/24_logo.png" /> </div>
       <div class='blackP'>
-      <p><span style = "color: #BA2828;">Червона </span> зона на карті - окуповані території </p>
+      <p><span style = "color: #BA2828;"> The red zone</span> on the map is the occupied territories </p>
       </div>
       <section style="margin-top: 10vh; margin-bottom: 10vh;">
         <div id="mapBlocks">
@@ -435,12 +433,10 @@ text += """</div>
       <div>
        <div class='blackP'>
           <p>
-            Від супутникової розвідки сховатися майже неможливо — маючи абсолютно невибагливий компʼютер та доступ до інтернету, ви самостійно можете отримати безкоштовні 
-            супутникові знімки та знайти, де ховається ворог. 
+            Satellite cameras are very hard to avoid: even a low-spec computer with internet access is quite enough to access free satellite images and spot enemy positions. 
           </p>
           <p>
-            Український контрнаступ — одна із найскладніших та кровопролитніших військових операцій у східній Европі з часів Другої світової війни. 
-            Підтримуйте сили оборони та допомагайте - на фронті зараз важко.
+           The Ukrainian counteroffensive has been one of the most complex and the bloodiest military operations in Eastern Europe since World War II. Support the defense forces and help those who are fighting hard on the front lines.
           </p>
         </div>
       </div>
@@ -451,7 +447,7 @@ text += """</div>
     <div class="sb fb">
       <a
         class="share-btn"
-        href="https://www.facebook.com/sharer/sharer.php?u=https://texty.org.ua/d/2023/way_to_sea/"
+        href="https://www.facebook.com/sharer/sharer.php?u=https://texty.org.ua/d/2023/way_to_sea_eng/"
         target="_blank"
       >
         <img
@@ -463,7 +459,7 @@ text += """</div>
     <div class="sb tw">
       <a
         class="share-btn"
-        href="https://twitter.com/intent/tweet?text=https://texty.org.ua/d/2023/way_to_sea/"
+        href="https://twitter.com/intent/tweet?text=https://texty.org.ua/d/2023/way_to_sea_eng/"
         target="_blank"
       >
         <img
@@ -475,7 +471,7 @@ text += """</div>
     <div class="sb tl">
       <a
         class="share-btn"
-        href="https://telegram.me/share/url?url=https://texty.org.ua/d/2023/way_to_sea/"
+        href="https://telegram.me/share/url?url=https://texty.org.ua/d/2023/way_to_sea_eng/"
         target="_blank"
       >
         <img
