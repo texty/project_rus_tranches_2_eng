@@ -29,7 +29,7 @@ text = """
     />
     <meta
       property="og:description"
-      content="Кілометри окопів, безкраї мінні поля, сотні бліндажів, підземні тунелі й цілі “земляні фортеці”. Які оборонні споруди доводиться “прогризати” ЗСУ на півдні України"
+      content="Miles upon miles of trenches, endless minefields, hundreds of bunkers and fortress-like strongholds with underground tunnels. The AFU have to fight their way through heavy Russian defenses in the south of Ukraine."
     />
     <meta
       property="og:url"
@@ -46,11 +46,11 @@ text = """
     />
     <meta
       name="twitter:title"
-      content="The Path to the Sea "
+      content="The Path to the Sea"
     />
     <meta
       name="twitter:description"
-     content="Кілометри окопів, безкраї мінні поля, сотні бліндажів, підземні тунелі й цілі “земляні фортеці”. Які оборонні споруди доводиться “прогризати” ЗСУ на півдні України" 
+     content="Miles upon miles of trenches, endless minefields, hundreds of bunkers and fortress-like strongholds with underground tunnels. The AFU have to fight their way through heavy Russian defenses in the south of Ukraine." 
      />
     <meta name="twitter:image:width" content="1200" />
     <meta name="twitter:image:height" content="630" />
@@ -58,11 +58,11 @@ text = """
     <!-- Other Meta Tags -->
     <meta
       name="title"
-      content="The Path to the Sea "
+      content="The Path to the Sea"
     />
     <meta
       name="description"
-      content="Кілометри окопів, безкраї мінні поля, сотні бліндажів, підземні тунелі й цілі “земляні фортеці”. Які оборонні споруди доводиться “прогризати” ЗСУ на півдні України"
+      content="Miles upon miles of trenches, endless minefields, hundreds of bunkers and fortress-like strongholds with underground tunnels. The AFU have to fight their way through heavy Russian defenses in the south of Ukraine.и"
     />
 
     <script
@@ -351,8 +351,8 @@ text = """
         </div>
       </div>
       <div id="title-wrapper">
-        <h1>НА ШЛЯХУ ДО МОРЯ</h1>
-        <h2>Кілометри окопів, безкраї мінні поля, сотні бліндажів, підземні тунелі й цілі “земляні фортеці”. Які оборонні споруди доводиться “прогризати” ЗСУ на півдні України
+        <h1>The Path to the Sea</h1>
+        <h2>Miles upon miles of trenches, endless minefields, hundreds of bunkers and fortress-like strongholds with underground tunnels. The AFU have to fight their way through heavy Russian defenses in the south of Ukraine.
 </h2>
       </div>
     </div>
@@ -372,22 +372,18 @@ text = """
     </div>
       <div class='blackP'>
         <p id="leadone">
-          ТЕКСТи реконструювати російську оборону лінію на півдні. Ми дослідили на супутникових знімках  за червень-вересень 2023 
-          року оборонні споруди окупантів ще не взятого міста Токмак і сіл Роботине (яке нещовдавно звільнили) й Вербове.</p>
+          ТЕКСТи реконструювали російську оборону лінію на півдні. Ми дослідили на супутникових знімках  за червень-вересень 2023 року оборонні споруди окупантів ще не взятого міста Токмак і сіл Роботине й Вербове, які наші війська нещодавно звільнили.</p>
        
 
         <p id="planet"> Супутникові знімки для проекту надані компанією <a href="https://www.planet.com/">Planet Labs</a>  </p>
-        <p>Після звільнення Роботиного розпочалася велика битва за Токмак, яка теоретично може стати фінальним актом активної воєнної кампанії 2023 року. </p>
+        <p>The liberation of Robotyne marked the beginning of the grand battle for Tokmak which might become the closing act of the 2023 military campaign.</p>
         <p>
-        Токмак — ключ до Мелітополя, і битва за це чимале місто може тривати кілька місяців з перемінним успіхом, але стане ключовою для “розрубування” сухопутного коридору з окупованого Криму до окупованих східних областей.
-        </p>
-        <p>Класична радянська лінія оборони із масивними полями та широкою лінією забезпечення - мінними полями, виносними позицями, спостережними пунктами. </p>
-        <p>
-        Оборона росіян, яку вони побудували з осені минулого року, — це сотні кілометрів безперервних траншей, бліндажів, ДОТів, ДЗОТів, окремих опорних пунктів — за розміром як середньовічний форт, який може кілька діб оборонятись автономно, а також налагоджена логістика, система малих складів боєкомплекту, тилові бази радіорозвідки, загонів БПЛА, артилеристів. </p>
-      </div>
+        Tokmak is the key to Melitopol, and the battle for this large city may turn into a tug of war for several months, but it will be the final strike in the cutting of the land corridor which connects the occupied Crimea to the occupied eastern regions.</p>
+        <p>This is a classic Soviet line of defense with massive kill zones to cross and a deep support line to penetrate with minefields, outposts, and observation stations.<p>
+        The Russian defense system which has been built since the fall of 2022 includes hundreds of miles of continuous trenches, dugouts, pillboxes, earth-and-timber emplacements, strongpoints some of which as large as a medieval fort and able to hold for several days alone as well as sophisticated logistics, a system of small ammunition depots, and RI, UAV, and artillery rear bases.</div>
       <div class="adaptive-image"></div>
       <div class='blackP'>
-        <p>Окупанти зараз стягнули під Токмак значні резерви новостворену загальновійськову 25 армію та 76 та 7 десантні дивізії. Зараз якраз вони намагаються атакувати фланги наступаючих сил ЗСУ. </p>
+        <p>The occupiers have deployed substantial reserves near Tokmak including the newly established 25th combined arms army and 76th and 7th airborne divisions. Those forces are currently attempting attacks on the flanks of the advancing elements of the Armed Forces of Ukraine.</p>
         <p>Ми намагалися хоча б частково показати, як побудовано російські укріплення на півдні. Оборонні лінії потужні, тому, схоже, їх штурм може затягнутися на місяці.</p>
       </div>
       
@@ -408,7 +404,7 @@ def save_html_to_file(html_content, filename):
 
 
 df = pd.read_csv(
-    """https://docs.google.com/spreadsheets/d/e/2PACX-1vTKpe1iyz6X9akGptwjrrPQS0YQb7W3WkO1fq9YgbLu33IIo8C-LHdaRRQpAwaVhEa1SAcI-AxnmI6u/pub?gid=0&single=true&output=csv"""
+    """https://docs.google.com/spreadsheets/d/e/2PACX-1vQoEYSHN_cI8BybyFncJSAsbgER7JSJo2Mm45_XojbJWqrVfCv8z2o9AdwEs0czr3RqZMssHFkKNYqW/pub?gid=0&single=true&output=csv"""
 )
 print(df.head())
 
@@ -749,7 +745,7 @@ text += """</div>
 </html>"""
 
 
-save_html_to_file(text, "rus_tranches_2_web/index.html")
+save_html_to_file(text, "index.html")
 
 
 #  приклад виводу
