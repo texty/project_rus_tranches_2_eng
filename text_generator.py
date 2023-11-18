@@ -382,7 +382,7 @@ text = """
       <div class="adaptive-image"></div>
       <div class='blackP'>
         <p>The occupiers have deployed substantial reserves near Tokmak including the newly established 25th combined arms army and 76th and 7th airborne divisions. Those forces are currently attempting attacks on the flanks of the advancing elements of the Armed Forces of Ukraine.</p>
-        <p>Ми намагалися хоча б частково показати, як побудовано російські укріплення на півдні. Оборонні лінії потужні, тому, схоже, їх штурм може затягнутися на місяці.</p>
+        <p>We tried to at least partially show how Russian fortifications were built in the south. The defensive lines are strong, so it looks like their assault could drag on for months.</p>
       </div>
       
       <div id="espreso-wrapper">  <p>Інформаційні партнери: </p><img id="espreso-logo" src="pic/espreso_logo.png" /> <img id="logo-24" src="pic/24_logo.png" /> </div>
