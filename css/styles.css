@@ -258,7 +258,7 @@ header .rubrics-container .r-burger {
 }
 
 #rm-3 > h2 {
-  color: black;
+  color: #d9d9d9;
 }
 
 #custom-read-more > .rm > h2 {
@@ -277,13 +277,13 @@ header .rubrics-container .r-burger {
 
 #rm-2 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://texty.org.ua/media/images/04_2.original.jpg");
+    url("https://raw.githubusercontent.com/texty/war_one_year/main/eng_cover.jpg");
   background-size: cover;
 }
 
 #rm-3 {
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url("https://texty.org.ua/d/2023/mariupol_chronicles/maps/d1.jpg");
+    url("https://texty.org.ua/media/images/cover.original.webp");
   background-size: cover;
 }
 
